@@ -16,6 +16,7 @@ I'm passionate about working with data, discovering meaningful insights, solving
 ## 🎓 Currently Learning
 
 **AI Driven Data Analytics – Entri**
+ **DA 78 Batch Excel Assignment/ Task**
 
 My learning journey includes:
 
